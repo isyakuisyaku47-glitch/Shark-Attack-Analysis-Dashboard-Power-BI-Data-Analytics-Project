@@ -87,7 +87,7 @@ Data Transformation,
 Data Modeling,
 Dashboard Design,
 Interactive Reporting,
-Business Intellig,
+Business Intelligence,
 Data Storytelling.
 
 ## Conclusion
