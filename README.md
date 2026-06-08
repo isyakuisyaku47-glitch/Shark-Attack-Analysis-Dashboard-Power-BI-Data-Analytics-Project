@@ -24,7 +24,7 @@ Which shark species are most frequently involved in attacks?
 
 ## Data used
 
-https://github.com/isyakuisyaku47-glitch/Shark-Attack-Analysis-Dashboard-Power-BI-Data-Analytics-Project/blob/main/Original%20Dataset%20Shark%20attacks.xlsx
+https://github.com/isyakuisyaku/Shark-Attack-Analysis-Dashboard-Power-BI-Data-Analytics-Project/blob/main/Original%20Dataset%20Shark%20attacks.xlsx
 
 
  ## 🛠 Data Preparation
