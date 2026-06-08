@@ -2,7 +2,8 @@
 
   
 ##   📷  Dashboard Preview
-https://github.com/isyakuisyaku47-glitch/Shark-Attack-Analysis-Dashboard-Power-BI-Data-Analytics-Project/blob/main/SHARK%20ATTACK%20ANALYSIS%20DASHBOARD.png
+<img width="1060" height="509" alt="SHARK ATTACK ANALYSIS DASHBOARD" src="https://github.com/user-attachments/assets/da656308-6f44-48f1-bc76-2d4670def053" />
+
 
 
 
