@@ -2,7 +2,7 @@
 
   
 ##   📷  Dashboard Preview
-
+https://github.com/isyakuisyaku47-glitch/Shark-Attack-Analysis-Dashboard-Power-BI-Data-Analytics-Project/blob/main/SHARK%20ATTACK%20ANALYSIS%20DASHBOARD.png
 
 
 
@@ -89,6 +89,9 @@ Interactive Reporting
 Business Intellig
 Data Storytelling
 
+## Conclusion
+
+This project demonstrates how raw historical data can be cleaned, transformed, and visualized to uncover meaningful patterns and trends in global shark attacks. The interactive dashboard enables users to explore shark attack incidents by location, injury type, time of day, and shark species while supporting data-driven decision-making.
 
 
 
