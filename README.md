@@ -73,22 +73,22 @@ Time Period
 
 
 ## 🛠 Tools Used
-Power BI
-Power Query
-DAX
-Data Cleaning
-Data Visualization
+Power BI,
+Power Query,
+DAX,
+Data Cleaning,
+Data Visualization.
 
 
 
 ## 💡  Skills Demonstrated
-Data Cleaning
-Data Transformation
-Data Modeling
-Dashboard Design
-Interactive Reporting
-Business Intellig
-Data Storytelling
+Data Cleaning,
+Data Transformation,
+Data Modeling,
+Dashboard Design,
+Interactive Reporting,
+Business Intellig,
+Data Storytelling.
 
 ## Conclusion
 
