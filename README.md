@@ -5,7 +5,8 @@
 
 The Shark Attack Analysis Dashboard is an interactive Power BI project that explores global shark attack records from 1900 onwards. The project focuses on cleaning raw data, identifying trends, and transforming historical shark attack records into actionable insights through interactive visualizations.
 
-🎯 Project Objectives
+
+##    🎯 Project Objectives
 
 This project answers the following business questions:
 
